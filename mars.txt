@@ -6,4 +6,3 @@ Venus has a beautiful name.
 
 Adding a line.
 Another line here.
-One to remove.
